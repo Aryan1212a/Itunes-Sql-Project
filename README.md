@@ -80,11 +80,8 @@ The dataset includes the following CSV files:
 
 ---
 
-## 📄 Final Deliverables
-- ✅ Google Colab Notebook with SQL
-- ✅ CSV Exports
-- ✅ Final Report (PDF/DOCX)
-- ✅ Optional Power BI Dashboard
+
+
 
 ---
 
