@@ -79,10 +79,6 @@ The dataset includes the following CSV files:
 4. Run the SQL queries and export results
 
 ---
-
-
-
-
 ---
 
 ## 🧠 Author
